@@ -18,3 +18,7 @@ Educação Alimentar Divertida: O jogo também educa de maneira divertida sobre 
 Modo de Competição: Desafie amigos ou jogue em modo multijogador para ver quem consegue alcançar a maior pontuação e coletar mais brócolis. A competição torna a experiência ainda mais emocionante.
 
 "Brocosauro: Fuga Terrestre dos Asteroides" é um jogo cheio de ação que combina habilidade, estratégia e diversão educativa enquanto você ajuda seu dinossauro a desviar de asteroides e a se alimentar de brócolis para sobreviver. Você está pronto para a corrida emocionante e saudável? Junte-se a essa aventura na Terra e prove que uma dieta equilibrada pode ser a chave para a sobrevivência!
+
+![brocologo](https://github.com/thiagomuller1/BrocoSauru/assets/87444620/0455036f-f8ab-4f81-8ad9-022ac022a907)
+
+
